@@ -106,7 +106,7 @@
 				471510B51EC2B9F50003E18B /* Info.plist */,
 			);
 			path = anita;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		471510BD1EC2B9F50003E18B /* anitaTests */ = {
 			isa = PBXGroup;
