@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -83,6 +83,7 @@
 				471510A71EC2B9F50003E18B /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		471510A71EC2B9F50003E18B /* Products */ = {
 			isa = PBXGroup;
@@ -207,7 +208,7 @@
 				};
 			};
 			buildConfigurationList = 471510A11EC2B9F50003E18B /* Build configuration list for PBXProject "anita" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -504,6 +505,7 @@
 				471510D01EC2B9F60003E18B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		471510D11EC2B9F60003E18B /* Build configuration list for PBXNativeTarget "anitaTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +514,7 @@
 				471510D31EC2B9F60003E18B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		471510D41EC2B9F60003E18B /* Build configuration list for PBXNativeTarget "anitaUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +523,7 @@
 				471510D61EC2B9F60003E18B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
